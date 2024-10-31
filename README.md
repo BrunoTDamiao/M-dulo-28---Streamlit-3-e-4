@@ -6,6 +6,10 @@ Um simples resumo do uso/propósito do projeto.
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
+## Link para a aplicaçao (LIVE)
+
+https://telemarketing-1-7aie.onrender.com
+
 ## Utilização
 
 ### Dependencias
